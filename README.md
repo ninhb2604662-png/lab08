@@ -16,4 +16,4 @@
 
 | Nội dung | Liên kết |
 |---|---|
-| Video cuộc họp trực tuyến (Zoom/Google Meet, ≥ 1 phút) | [điền link YouTube](https://youtu.be/lCcuzj4VDe4) |
+| Video cuộc họp trực tuyến (Zoom/Google Meet, ≥ 1 phút) | [link YouTube](https://youtu.be/lCcuzj4VDe4) |
