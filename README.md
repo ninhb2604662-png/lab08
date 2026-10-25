@@ -2,7 +2,8 @@
 
 - **Họ và tên:** Nguyễn An Ninh
 - **Mã số sinh viên:** B2604662
-- **Lớp:** [điền mã lớp]
+- **Lớp:** A1
+  
 
 ## Liên kết mạng xã hội và tin nhắn
 
