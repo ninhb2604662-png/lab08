@@ -9,8 +9,8 @@
 
 | Nội dung | Liên kết |
 |---|---|
-| Page Facebook `Lop_X……_K52` | [điền link page Facebook]( https://www.facebook.com/share/1EUDQdox8M/) |
-| Nhóm Zalo (≥ 3 thành viên, có trưởng nhóm và phó nhóm) | [điền link nhóm Zalo]( https://zalo.me/g/rvofzqelrjzvktq4udpi) |
+| Page Facebook  | [link page Facebook]( https://www.facebook.com/share/1EUDQdox8M/) |
+| Nhóm Zalo (≥ 3 thành viên, có trưởng nhóm và phó nhóm) | [ link nhóm Zalo]( https://zalo.me/g/rvofzqelrjzvktq4udpi) |
 
 ## Hội nghị trực tuyến
 
